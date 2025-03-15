@@ -1,10 +1,10 @@
-# PRIVACY POLICY FOR QR ULTIMATE
+# PRIVACY POLICY FOR QR App
 
 **Last Updated: March 15, 2025**
 
 ## 1. INTRODUCTION
 
-Welcome to QR Ultimate. We are committed to protecting your privacy and personal information. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our application.
+Welcome to QR App. We are committed to protecting your privacy and personal information. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our application.
 
 ## 2. INFORMATION WE COLLECT
 
@@ -27,7 +27,7 @@ We use the information we collect to:
 
 ## 4. INFORMATION SHARING AND DISCLOSURE
 
-QR Ultimate does not share any of your information with third parties. All data is stored locally on your device only. We do not upload, transmit, or store any of your data on our servers.
+QR App does not share any of your information with third parties. All data is stored locally on your device only. We do not upload, transmit, or store any of your data on our servers.
 
 ## 5. DATA STORAGE AND SECURITY
 
@@ -55,4 +55,4 @@ If you have any questions or suggestions about our Privacy Policy, do not hesita
 
 ## 10. CONSENT
 
-By using QR Ultimate, you consent to our Privacy Policy and agree to its terms and conditions.
+By using QR App, you consent to our Privacy Policy and agree to its terms and conditions.
